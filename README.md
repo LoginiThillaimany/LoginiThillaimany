@@ -36,3 +36,4 @@ const logini = {
   tools: ["Git", "VS Code", "Android Studio"],
   focus: "Building scalable full-stack applications"
 };
+
