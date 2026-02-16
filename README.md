@@ -1,75 +1,38 @@
-<h1 align="center">Hi 👋, I'm Logini Thillaimany</h1>
-<h3 align="center">Software Engineering Undergraduate | Full Stack Developer</h3>
+<!-- Animated SVG Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Logini%20Thillaimany&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<h1 align="center">Hi 👋 I'm Logini</h1>
+<h3 align="center">🚀 Software Engineer | Full Stack Developer | MERN Stack Developer | Future Tech Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Mobile+App+Developer;Clean+Code+Advocate&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;MERN+Stack+Specialist;Spring+Boot+Enthusiast;Building+Scalable+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LoginiThillaimany&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 🎓 Education
 
-- 🎓 Software Engineering Undergraduate
-- 💻 Passionate about Full Stack Development
-- 🌱 Currently learning **Laravel**
-- 🚀 Interested in Internship Opportunities
-- 🎯 Building real-world scalable applications
+🎓 **BSc (Hons) in Software Engineering**  
+🏫 Sri Lanka Institute of Information Technology (SLIIT)  
+📅 3rd Year Undergraduate  
 
 ---
 
-## 🧬 Developer DNA
+# 🧬 Developer DNA
 
 ```javascript
 const logini = {
+  role: "Future Tech Architect",
   languages: ["Java", "JavaScript", "C++", "C"],
-  frontend: ["React.js", "HTML", "CSS"],
-  backend: ["Node.js", "Express.js", "Laravel (Learning)"],
-  databases: ["MongoDB", "MySQL"],
+  frontend: ["React.js", "React Native", "HTML", "CSS"],
+  backend: ["Node.js", "Express.js", "Spring Boot", "Laravel", "PHP"],
+  databases: ["MongoDB", "MySQL", "SQL Server"],
   tools: ["Git", "VS Code", "Android Studio"],
+  focus: "Building scalable full-stack applications"
 };
-
-
-
----
-
-### 🔹 4. Click Commit Changes
-
-Now refresh your profile page.
-
-🔥 You will see portfolio style GitHub.
-
----
-
-# 🚀 STEP 2 — Now Improve Your Projects (VERY IMPORTANT)
-
-Portfolio is not only design.
-
-Recruiters check projects.
-
-For EACH project:
-
-Open project → Add README like this:
-
-```markdown
-# Project Name
-
-## 📌 Description
-Short explanation of what the system does.
-
-## ⚙ Tech Stack
-- React
-- Node.js
-- MongoDB
-
-## 🚀 How to Run
-npm install
-npm start
-
-## 📸 Screenshots
-(Add screenshots)
-
-## 🎯 Features
-- User authentication
-- CRUD operations
-- Responsive UI
-
