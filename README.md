@@ -10,7 +10,7 @@
 # 🎓 Education
 - 🎓 BSc (Hons) in Software Engineering  
 - 🏫 Sri Lanka Institute of Information Technology (SLIIT)  
-- 📅 3rd Year Undergraduate  
+- 📅 Final Year Undergraduate  
 
 ---
 
